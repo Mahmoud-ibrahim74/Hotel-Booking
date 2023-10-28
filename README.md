@@ -1,1 +1,1 @@
-# HotelAPI
+The project is a Hotel Booking System implemented using .NET Core 7.0. It consists of a Web API (HotelAPI) with Swagger documentation, a SQL Server database, and an ASP.NET Core MVC front-end for user interaction. Key features include user authentication, JWT authentication, and the ability to book rooms by filling out a form. The project demonstrates proficiency in .NET Core, ASP.NET Core MVC, and related technologies.
